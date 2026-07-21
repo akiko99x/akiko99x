@@ -3,23 +3,10 @@
 
 ---
 
-### tech stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,lua,css,html&theme=dark" />
-  </a>
-</p>
-
----
-
-### stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=akiko99x&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiko99x&layout=compact&theme=dark&hide_border=true" />
+  <img src="./a_8aab99cca670fb5a08365fc7ee0fd87a.gif" width="100%" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akiko99x&color=white&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+kartinki.mp3
+i'm a high-tier network engineer, making vpn cores, protocols and some other stuff with rust & go.
