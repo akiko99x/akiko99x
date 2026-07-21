@@ -3,10 +3,12 @@
 
 ---
 
-<p align="center">
+<div align="center">
+
   <img src="./a_8aab99cca670fb5a08365fc7ee0fd87a.gif" width="100%" />
-</p>
 
+  <h3>🎵 kartinki.mp3</h3>
 
-kartinki.mp3
-i'm a high-tier network engineer, making vpn cores, protocols and some other stuff with rust & go.
+  <p>I'm a high-tier network engineer, making VPN cores, protocols, and some other stuff in Rust & Go.</p>
+
+</div>
